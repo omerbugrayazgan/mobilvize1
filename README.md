@@ -1,6 +1,8 @@
 # mobilvize
 
 A new Flutter project.
+isim omerbugrayazgan
+no 211216015
 
 ## Getting Started
 
